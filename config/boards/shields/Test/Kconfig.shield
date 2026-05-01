@@ -1,5 +1,5 @@
 config SHIELD_ROBA_R
-    def_bool $(shields_list_contains,cool642tb-mini_R)
+    def_bool $(shields_list_contains,BobTail_R)
 
 config SHIELD_ROBA_L
-    def_bool $(shields_list_contains,cool642tb-mini_L)
+    def_bool $(shields_list_contains,BobTail_L)
