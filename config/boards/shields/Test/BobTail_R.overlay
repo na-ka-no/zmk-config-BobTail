@@ -1,4 +1,4 @@
-#include "cool642tb-mini.dtsi"
+#include "BobTail.dtsi"
 
 &default_transform {
     col-offset = <6>;
