@@ -1,4 +1,4 @@
-name: cool642tb-mini
+name: BobTail
 build:
   settings:
     board_root: config
