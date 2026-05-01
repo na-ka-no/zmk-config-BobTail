@@ -1,4 +1,4 @@
-#include "cool642tb-mini.dtsi"
+#include "BobTail.dtsi"
 
 &kscan0 {
         col-gpios
