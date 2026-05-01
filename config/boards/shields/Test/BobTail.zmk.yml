@@ -1,0 +1,8 @@
+file_format: "1"
+id: BobTail
+name: BobTail
+type: shield
+url: https://github.com/na-ka-no/zmk-config-BobTail
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
